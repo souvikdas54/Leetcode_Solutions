@@ -1,3 +1,5 @@
+//Find all anagrams in a string given a pattern
+
 #include<iostream>
 #include<string.h>
 #include<vector>
